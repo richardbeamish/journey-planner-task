@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "journey-planner-319b7": {
+      "hosting": {
+        "train-journey": [
+          "journey-planner-319b7"
+        ]
+      }
+    }
+  }
+}
